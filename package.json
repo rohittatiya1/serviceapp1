@@ -1,7 +1,7 @@
 {
-  "name": "MobileServiceapi",
+  "name": "serviceapp1",
   "description": "REST CRUD Example Node.js & Mysql",
-   "repository": "https://github.com/Hiraji/MobileServiceapi",    
+   "repository": "https://github.com/rohittatiya1/serviceapp1",    
   "version": "0.0.1",
   "private": true,
   "main": "serverB.js",
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Hiraji/MobileServiceapi"
+    "url": "https://github.com/rohittatiya1/serviceapp1"
   },
   "keywords": [
     "node",
